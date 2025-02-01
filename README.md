@@ -18,6 +18,5 @@ javascript e react. Iniciando alguns projetos utilizando boostrap.
 ## 📫 Contato
 - 📧 Email: laracaike2@gmail.com
 - 💼 [LinkedIn](linkedin.com/in/caike-dias-a8a4a2345)
-- 🌎 [Portfólio](#) (se houver)
 
 💡 _Seja bem-vindo ao meu perfil!_ ✨
